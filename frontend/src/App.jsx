@@ -7,7 +7,7 @@ function App() {
   const [hostData, setHostData] = useState(null);
 
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/process_monitor/") // your API
+    fetch("http://127.0.0.1:8000/process_monitor/") 
       .then((res) => res.json())
       .then((data) => setHostData(data.system_info))
       .catch((err) => console.error(err));
@@ -114,7 +114,7 @@ function App() {
             flex: 1,
             padding: "1.5rem",
             overflowY: "auto",
-            background: "#121212", // dark theme background
+            background: "#121212", 
             color: "#e0e0e0",
           }}
         >

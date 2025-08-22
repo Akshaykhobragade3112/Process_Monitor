@@ -13,23 +13,23 @@ def get_running_processes():
     system_processes = []
 
     try:
-        # Run tasklist and capture output
+
         output = subprocess.check_output(["tasklist"], shell=True, text=True)
-        lines = output.splitlines()[3:]  # skip header rows
+        lines = output.splitlines()[3:]  
 
         for line in lines:
             parts = re.split(r"\s+", line.strip())
             if len(parts) >= 5:
                 process_name = parts[0]
 
-                # Some system processes (Registry, Memory Compression) don’t have numeric PIDs
+                
                 try:
                     pid = int(parts[1])
                 except ValueError:
                     system_processes.append(process_name)
                     continue
 
-                # Memory usage (convert KB → MB)
+               
                 mem_usage_mb = 0.0
                 try:
                     mem_usage_str = parts[-2].replace(",", "").replace("K", "")
@@ -37,20 +37,19 @@ def get_running_processes():
                 except Exception:
                     pass
 
-                # CPU usage + PPID
                 cpu_percent = 0.0
                 ppid = None
                 try:
                     p = psutil.Process(pid)
                     cpu_percent = p.cpu_percent(interval=0.1)
-                    ppid = p.ppid()   # 👈 added parent PID
+                    ppid = p.ppid()   
                 except Exception:
                     pass
 
                 processes.append({
                     "name": process_name,
                     "pid": pid,
-                    "ppid": ppid,             # 👈 new field
+                    "ppid": ppid,             
                     "memory_mb": mem_usage_mb,
                     "cpu_percent": cpu_percent
                 })
@@ -93,7 +92,7 @@ def get_system_info(system_processes):
         "total_storage_gb": storage_total,
         "used_storage_gb": storage_used,
         "free_storage_gb": storage_free,
-        "system_processes": system_processes  # 👈 added here
+        "system_processes": system_processes  
     }
 
 def print_process_tree(json_file="system_info.json"):
@@ -105,10 +104,10 @@ def print_process_tree(json_file="system_info.json"):
 
     processes = data.get("running_processes", [])
 
-    # Build a dict: pid -> process info
+    
     proc_map = {p["pid"]: p for p in processes if "pid" in p}
 
-    # Build children map: ppid -> [children]
+    
     children = {}
     for p in processes:
         ppid = p.get("ppid")
@@ -125,7 +124,7 @@ def print_process_tree(json_file="system_info.json"):
         for child in children.get(pid, []):
             print_tree(child["pid"], level + 1)
 
-    # Start from top-level processes (those whose PPID not in proc_map)
+   
     for p in processes:
         if p.get("ppid") not in proc_map:
             print_tree(p["pid"], 0)

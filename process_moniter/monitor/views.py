@@ -10,9 +10,6 @@ from rest_framework import status
 from django.conf import settings
 
 class SystemInfoView(APIView):
-    """
-    Read system_info.json (created by agent) and return as API response
-    """
 
     def get(self, request):
       
@@ -32,7 +29,3 @@ class SystemInfoView(APIView):
             return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 
-# from django.views.generic import TemplateView
-
-# class FrontendView(TemplateView):
-#     template_name = "monitor/index.html"
