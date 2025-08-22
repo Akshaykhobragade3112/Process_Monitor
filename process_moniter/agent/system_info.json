@@ -1,0 +1,1470 @@
+{
+    "system_info": {
+        "hostname": "DESKTOP-BROFJRD",
+        "os": "Windows 10",
+        "processor": "Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",
+        "number_of_cores": 2,
+        "number_of_threads": 4,
+        "ram_gb": 3.92,
+        "used_ram_gb": 3.49,
+        "available_ram_gb": 0.43,
+        "total_storage_gb": 118.64,
+        "used_storage_gb": 105.48,
+        "free_storage_gb": 13.16,
+        "system_processes": [
+            "System",
+            "Memory"
+        ]
+    },
+    "running_processes": [
+        {
+            "name": "System",
+            "pid": 4,
+            "ppid": 0,
+            "memory_mb": 0.13,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Registry",
+            "pid": 100,
+            "ppid": 4,
+            "memory_mb": 30.85,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "smss.exe",
+            "pid": 376,
+            "ppid": 4,
+            "memory_mb": 0.16,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "csrss.exe",
+            "pid": 620,
+            "ppid": 480,
+            "memory_mb": 1.94,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "wininit.exe",
+            "pid": 704,
+            "ppid": 480,
+            "memory_mb": 0.38,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "services.exe",
+            "pid": 844,
+            "ppid": 704,
+            "memory_mb": 5.88,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "lsass.exe",
+            "pid": 864,
+            "ppid": 704,
+            "memory_mb": 13.74,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 992,
+            "ppid": 844,
+            "memory_mb": 17.96,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "fontdrvhost.exe",
+            "pid": 68,
+            "ppid": 704,
+            "memory_mb": 0.66,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "WUDFHost.exe",
+            "pid": 644,
+            "ppid": 844,
+            "memory_mb": 7.75,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1016,
+            "ppid": 844,
+            "memory_mb": 13.08,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1060,
+            "ppid": 844,
+            "memory_mb": 5.91,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1220,
+            "ppid": 844,
+            "memory_mb": 6.26,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1260,
+            "ppid": 844,
+            "memory_mb": 6.18,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1328,
+            "ppid": 844,
+            "memory_mb": 5.44,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1356,
+            "ppid": 844,
+            "memory_mb": 4.48,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "IntelCpHDCPSvc.exe",
+            "pid": 1388,
+            "ppid": 844,
+            "memory_mb": 2.98,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1536,
+            "ppid": 844,
+            "memory_mb": 5.34,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1552,
+            "ppid": 844,
+            "memory_mb": 9.06,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "igfxCUIService.exe",
+            "pid": 1600,
+            "ppid": 844,
+            "memory_mb": 4.2,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "IntelCpHeciSvc.exe",
+            "pid": 1724,
+            "ppid": 844,
+            "memory_mb": 4.08,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1792,
+            "ppid": 844,
+            "memory_mb": 5.34,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1856,
+            "ppid": 844,
+            "memory_mb": 4.66,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "SynTPEnhService.exe",
+            "pid": 1932,
+            "ppid": 844,
+            "memory_mb": 4.64,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2004,
+            "ppid": 844,
+            "memory_mb": 7.36,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2036,
+            "ppid": 844,
+            "memory_mb": 9.38,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1324,
+            "ppid": 844,
+            "memory_mb": 8.94,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2088,
+            "ppid": 844,
+            "memory_mb": 6.5,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2124,
+            "ppid": 844,
+            "memory_mb": 5.54,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2176,
+            "ppid": 844,
+            "memory_mb": 4.39,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2172,
+            "ppid": 844,
+            "memory_mb": 1.7,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2260,
+            "ppid": 844,
+            "memory_mb": 2.49,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2268,
+            "ppid": 844,
+            "memory_mb": 2.66,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2332,
+            "ppid": 844,
+            "memory_mb": 5.04,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2436,
+            "ppid": 844,
+            "memory_mb": 11.44,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2612,
+            "ppid": 844,
+            "memory_mb": 3.0,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2632,
+            "ppid": 844,
+            "memory_mb": 6.5,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2740,
+            "ppid": 844,
+            "memory_mb": 0.95,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "RtkAudioService64.exe",
+            "pid": 2764,
+            "ppid": 844,
+            "memory_mb": 2.52,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2820,
+            "ppid": 844,
+            "memory_mb": 7.99,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2920,
+            "ppid": 844,
+            "memory_mb": 1.06,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2964,
+            "ppid": 844,
+            "memory_mb": 2.32,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2972,
+            "ppid": 844,
+            "memory_mb": 4.1,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2980,
+            "ppid": 844,
+            "memory_mb": 3.59,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3120,
+            "ppid": 844,
+            "memory_mb": 3.5,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3200,
+            "ppid": 844,
+            "memory_mb": 7.42,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3252,
+            "ppid": 844,
+            "memory_mb": 2.54,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "spoolsv.exe",
+            "pid": 3328,
+            "ppid": 844,
+            "memory_mb": 3.22,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "wlanext.exe",
+            "pid": 3356,
+            "ppid": 3200,
+            "memory_mb": 2.64,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "conhost.exe",
+            "pid": 3368,
+            "ppid": 3356,
+            "memory_mb": 0.34,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3456,
+            "ppid": 844,
+            "memory_mb": 2.49,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3560,
+            "ppid": 844,
+            "memory_mb": 9.41,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3568,
+            "ppid": 844,
+            "memory_mb": 1.71,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3576,
+            "ppid": 844,
+            "memory_mb": 15.66,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3588,
+            "ppid": 844,
+            "memory_mb": 2.69,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3596,
+            "ppid": 844,
+            "memory_mb": 17.75,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "OneApp.IGCC.WinService.ex",
+            "pid": 3632,
+            "ppid": 844,
+            "memory_mb": 9.62,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3648,
+            "ppid": 844,
+            "memory_mb": 10.48,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "esif_uf.exe",
+            "pid": 3716,
+            "ppid": 844,
+            "memory_mb": 1.7,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "jhi_service.exe",
+            "pid": 3744,
+            "ppid": 844,
+            "memory_mb": 0.82,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "OfficeClickToRun.exe",
+            "pid": 3756,
+            "ppid": 844,
+            "memory_mb": 19.23,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3856,
+            "ppid": 844,
+            "memory_mb": 3.51,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3912,
+            "ppid": 844,
+            "memory_mb": 12.8,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3924,
+            "ppid": 844,
+            "memory_mb": 2.78,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3932,
+            "ppid": 844,
+            "memory_mb": 1.21,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3940,
+            "ppid": 844,
+            "memory_mb": 1.43,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "pg_ctl.exe",
+            "pid": 3956,
+            "ppid": 844,
+            "memory_mb": 0.16,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "XtuService.exe",
+            "pid": 3968,
+            "ppid": 844,
+            "memory_mb": 14.92,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "MpDefenderCoreService.exe",
+            "pid": 3976,
+            "ppid": 844,
+            "memory_mb": 10.38,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "RtkBtManServ.exe",
+            "pid": 4012,
+            "ppid": 844,
+            "memory_mb": 1.68,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "WsNativePushService.exe",
+            "pid": 4020,
+            "ppid": 844,
+            "memory_mb": 1.47,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "MsMpEng.exe",
+            "pid": 4068,
+            "ppid": 844,
+            "memory_mb": 192.54,
+            "cpu_percent": 43.7
+        },
+        {
+            "name": "wslservice.exe",
+            "pid": 3048,
+            "ppid": 844,
+            "memory_mb": 5.07,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "LMS.exe",
+            "pid": 3424,
+            "ppid": 844,
+            "memory_mb": 2.2,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 4148,
+            "ppid": 844,
+            "memory_mb": 1.14,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "mongod.exe",
+            "pid": 4156,
+            "ppid": 844,
+            "memory_mb": 20.26,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 4292,
+            "ppid": 844,
+            "memory_mb": 4.79,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "dasHost.exe",
+            "pid": 4316,
+            "ppid": 3588,
+            "memory_mb": 11.68,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "mysqld.exe",
+            "pid": 4344,
+            "ppid": 844,
+            "memory_mb": 1.65,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 4540,
+            "ppid": 844,
+            "memory_mb": 4.48,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 4676,
+            "ppid": 844,
+            "memory_mb": 5.16,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 5148,
+            "ppid": 844,
+            "memory_mb": 3.26,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "mysqld.exe",
+            "pid": 5352,
+            "ppid": 4344,
+            "memory_mb": 3.63,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "conhost.exe",
+            "pid": 5364,
+            "ppid": 5352,
+            "memory_mb": 1.41,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "dllhost.exe",
+            "pid": 5660,
+            "ppid": 992,
+            "memory_mb": 5.31,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "WmiPrvSE.exe",
+            "pid": 5876,
+            "ppid": 992,
+            "memory_mb": 9.82,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "postgres.exe",
+            "pid": 1964,
+            "ppid": 3956,
+            "memory_mb": 1.02,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "conhost.exe",
+            "pid": 2028,
+            "ppid": 1964,
+            "memory_mb": 1.9,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 5780,
+            "ppid": 844,
+            "memory_mb": 1.01,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "postgres.exe",
+            "pid": 6356,
+            "ppid": 1964,
+            "memory_mb": 0.54,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "postgres.exe",
+            "pid": 6404,
+            "ppid": 1964,
+            "memory_mb": 0.55,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "postgres.exe",
+            "pid": 6412,
+            "ppid": 1964,
+            "memory_mb": 3.0,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "SearchIndexer.exe",
+            "pid": 6428,
+            "ppid": 844,
+            "memory_mb": 21.78,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "postgres.exe",
+            "pid": 6508,
+            "ppid": 1964,
+            "memory_mb": 0.66,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "postgres.exe",
+            "pid": 6516,
+            "ppid": 1964,
+            "memory_mb": 1.28,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "postgres.exe",
+            "pid": 6524,
+            "ppid": 1964,
+            "memory_mb": 1.1,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "AggregatorHost.exe",
+            "pid": 6704,
+            "ppid": 3576,
+            "memory_mb": 5.8,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "NisSrv.exe",
+            "pid": 4884,
+            "ppid": 844,
+            "memory_mb": 12.41,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 3792,
+            "ppid": 844,
+            "memory_mb": 2.84,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 5576,
+            "ppid": 844,
+            "memory_mb": 4.16,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 812,
+            "ppid": 844,
+            "memory_mb": 2.06,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1068,
+            "ppid": 844,
+            "memory_mb": 4.25,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 6784,
+            "ppid": 844,
+            "memory_mb": 2.61,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 72,
+            "ppid": 844,
+            "memory_mb": 9.23,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 4504,
+            "ppid": 844,
+            "memory_mb": 9.04,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 4536,
+            "ppid": 844,
+            "memory_mb": 5.47,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 4484,
+            "ppid": 844,
+            "memory_mb": 11.97,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2320,
+            "ppid": 844,
+            "memory_mb": 6.14,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 7768,
+            "ppid": 844,
+            "memory_mb": 5.29,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 860,
+            "ppid": 844,
+            "memory_mb": 2.13,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 8324,
+            "ppid": 844,
+            "memory_mb": 4.84,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 4204,
+            "ppid": 844,
+            "memory_mb": 2.29,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "SecurityHealthService.exe",
+            "pid": 1524,
+            "ppid": 844,
+            "memory_mb": 5.95,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 10432,
+            "ppid": 844,
+            "memory_mb": 10.93,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 6308,
+            "ppid": 844,
+            "memory_mb": 6.75,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "csrss.exe",
+            "pid": 10560,
+            "ppid": 5604,
+            "memory_mb": 2.93,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "winlogon.exe",
+            "pid": 9136,
+            "ppid": 5604,
+            "memory_mb": 4.66,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "dwm.exe",
+            "pid": 11924,
+            "ppid": 9136,
+            "memory_mb": 35.63,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "fontdrvhost.exe",
+            "pid": 8540,
+            "ppid": 9136,
+            "memory_mb": 1.66,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 2116,
+            "ppid": 844,
+            "memory_mb": 7.92,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 5136,
+            "ppid": 844,
+            "memory_mb": 5.45,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 9968,
+            "ppid": 844,
+            "memory_mb": 3.81,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 11488,
+            "ppid": 844,
+            "memory_mb": 5.59,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 8920,
+            "ppid": 844,
+            "memory_mb": 6.44,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "SynTPEnh.exe",
+            "pid": 7524,
+            "ppid": 1932,
+            "memory_mb": 13.52,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 4380,
+            "ppid": 844,
+            "memory_mb": 21.48,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "sihost.exe",
+            "pid": 2072,
+            "ppid": 2332,
+            "memory_mb": 18.7,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 5288,
+            "ppid": 844,
+            "memory_mb": 19.11,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "igfxEM.exe",
+            "pid": 10400,
+            "ppid": 1600,
+            "memory_mb": 7.99,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "taskhostw.exe",
+            "pid": 11104,
+            "ppid": 2036,
+            "memory_mb": 13.48,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "ctfmon.exe",
+            "pid": 11348,
+            "ppid": 6784,
+            "memory_mb": 11.12,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "explorer.exe",
+            "pid": 12020,
+            "ppid": 9204,
+            "memory_mb": 69.08,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 9108,
+            "ppid": 844,
+            "memory_mb": 16.63,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "StartMenuExperienceHost.e",
+            "pid": 5700,
+            "ppid": 992,
+            "memory_mb": 27.94,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "RuntimeBroker.exe",
+            "pid": 10712,
+            "ppid": 992,
+            "memory_mb": 5.09,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "SearchApp.exe",
+            "pid": 2864,
+            "ppid": 992,
+            "memory_mb": 1.02,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "RuntimeBroker.exe",
+            "pid": 4496,
+            "ppid": 992,
+            "memory_mb": 16.29,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "TextInputHost.exe",
+            "pid": 7844,
+            "ppid": 992,
+            "memory_mb": 14.56,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "RuntimeBroker.exe",
+            "pid": 11456,
+            "ppid": 992,
+            "memory_mb": 14.12,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "SecurityHealthSystray.exe",
+            "pid": 3428,
+            "ppid": 12020,
+            "memory_mb": 5.39,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "RtkNGUI64.exe",
+            "pid": 972,
+            "ppid": 12020,
+            "memory_mb": 12.93,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "OneDrive.exe",
+            "pid": 5100,
+            "ppid": 12020,
+            "memory_mb": 21.06,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "chrome.exe",
+            "pid": 1788,
+            "ppid": 12020,
+            "memory_mb": 106.46,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "chrome.exe",
+            "pid": 4200,
+            "ppid": 1788,
+            "memory_mb": 8.53,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "chrome.exe",
+            "pid": 7952,
+            "ppid": 1788,
+            "memory_mb": 36.37,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "chrome.exe",
+            "pid": 8828,
+            "ppid": 1788,
+            "memory_mb": 40.57,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "chrome.exe",
+            "pid": 5096,
+            "ppid": 1788,
+            "memory_mb": 8.27,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "WSHelper.exe",
+            "pid": 4128,
+            "ppid": 3584,
+            "memory_mb": 13.26,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "SystemSettings.exe",
+            "pid": 9328,
+            "ppid": 992,
+            "memory_mb": 0.67,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "ApplicationFrameHost.exe",
+            "pid": 9244,
+            "ppid": 992,
+            "memory_mb": 9.58,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "UserOOBEBroker.exe",
+            "pid": 4716,
+            "ppid": 992,
+            "memory_mb": 9.27,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 1096,
+            "ppid": 844,
+            "memory_mb": 13.01,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "FileCoAuth.exe",
+            "pid": 10752,
+            "ppid": 992,
+            "memory_mb": 16.25,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "chrome.exe",
+            "pid": 4424,
+            "ppid": 1788,
+            "memory_mb": 8.11,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "chrome.exe",
+            "pid": 6208,
+            "ppid": 1788,
+            "memory_mb": 7.82,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "CompPkgSrv.exe",
+            "pid": 11272,
+            "ppid": 992,
+            "memory_mb": 3.46,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "chrome.exe",
+            "pid": 10736,
+            "ppid": 1788,
+            "memory_mb": 354.14,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 7280,
+            "ppid": 12020,
+            "memory_mb": 44.54,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 10364,
+            "ppid": 7280,
+            "memory_mb": 12.69,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 8272,
+            "ppid": 7280,
+            "memory_mb": 54.45,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 12132,
+            "ppid": 7280,
+            "memory_mb": 13.47,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 10984,
+            "ppid": 7280,
+            "memory_mb": 234.64,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 796,
+            "ppid": 7280,
+            "memory_mb": 29.31,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 2456,
+            "ppid": 7280,
+            "memory_mb": 19.47,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 8980,
+            "ppid": 7280,
+            "memory_mb": 11.39,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 7412,
+            "ppid": 7280,
+            "memory_mb": 55.6,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "conhost.exe",
+            "pid": 4896,
+            "ppid": 796,
+            "memory_mb": 6.78,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "powershell.exe",
+            "pid": 11940,
+            "ppid": 796,
+            "memory_mb": 7.26,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 8056,
+            "ppid": 7412,
+            "memory_mb": 178.87,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 9040,
+            "ppid": 7412,
+            "memory_mb": 23.59,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "dllhost.exe",
+            "pid": 3060,
+            "ppid": 992,
+            "memory_mb": 11.33,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "WsToastNotification.exe",
+            "pid": 7324,
+            "ppid": 4020,
+            "memory_mb": 9.52,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "conhost.exe",
+            "pid": 11616,
+            "ppid": 7324,
+            "memory_mb": 7.73,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "LockApp.exe",
+            "pid": 1364,
+            "ppid": 992,
+            "memory_mb": 11.77,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "RuntimeBroker.exe",
+            "pid": 7996,
+            "ppid": 992,
+            "memory_mb": 15.64,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "taskhostw.exe",
+            "pid": 2376,
+            "ppid": 2036,
+            "memory_mb": 9.12,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 6968,
+            "ppid": 844,
+            "memory_mb": 2.47,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 8972,
+            "ppid": 7412,
+            "memory_mb": 10.92,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "conhost.exe",
+            "pid": 1572,
+            "ppid": 796,
+            "memory_mb": 2.8,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "powershell.exe",
+            "pid": 10088,
+            "ppid": 796,
+            "memory_mb": 28.55,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 8672,
+            "ppid": 844,
+            "memory_mb": 3.29,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "TabTip.exe",
+            "pid": 7348,
+            "ppid": 6784,
+            "memory_mb": 10.63,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 9652,
+            "ppid": 7412,
+            "memory_mb": 6.83,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 11252,
+            "ppid": 7412,
+            "memory_mb": 14.43,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 7064,
+            "ppid": 7412,
+            "memory_mb": 22.14,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Code.exe",
+            "pid": 6456,
+            "ppid": 7064,
+            "memory_mb": 9.59,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "chrome.exe",
+            "pid": 4144,
+            "ppid": 1788,
+            "memory_mb": 10.84,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "chrome.exe",
+            "pid": 612,
+            "ppid": 1788,
+            "memory_mb": 10.13,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "ShellExperienceHost.exe",
+            "pid": 11500,
+            "ppid": 992,
+            "memory_mb": 35.48,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "RuntimeBroker.exe",
+            "pid": 11512,
+            "ppid": 992,
+            "memory_mb": 18.46,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 11584,
+            "ppid": 844,
+            "memory_mb": 9.36,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "SystemSettingsBroker.exe",
+            "pid": 7288,
+            "ppid": 992,
+            "memory_mb": 21.05,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Postman.exe",
+            "pid": 12716,
+            "ppid": 7088,
+            "memory_mb": 90.61,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Postman.exe",
+            "pid": 7784,
+            "ppid": 12716,
+            "memory_mb": 10.98,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Postman.exe",
+            "pid": 9792,
+            "ppid": 12716,
+            "memory_mb": 49.24,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Postman.exe",
+            "pid": 13076,
+            "ppid": 12716,
+            "memory_mb": 15.06,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Postman.exe",
+            "pid": 6112,
+            "ppid": 12716,
+            "memory_mb": 210.75,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "Postman.exe",
+            "pid": 10192,
+            "ppid": 12716,
+            "memory_mb": 14.84,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 11356,
+            "ppid": 844,
+            "memory_mb": 7.02,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "svchost.exe",
+            "pid": 10912,
+            "ppid": 844,
+            "memory_mb": 7.41,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "WmiPrvSE.exe",
+            "pid": 12480,
+            "ppid": 992,
+            "memory_mb": 11.19,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "agent.exe",
+            "pid": 7400,
+            "ppid": 10088,
+            "memory_mb": 6.31,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "agent.exe",
+            "pid": 11040,
+            "ppid": 7400,
+            "memory_mb": 19.82,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "cmd.exe",
+            "pid": 10648,
+            "ppid": null,
+            "memory_mb": 4.48,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "docker.exe",
+            "pid": 9172,
+            "ppid": null,
+            "memory_mb": 18.54,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "conhost.exe",
+            "pid": 10124,
+            "ppid": null,
+            "memory_mb": 11.36,
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "tasklist.exe",
+            "pid": 10744,
+            "ppid": null,
+            "memory_mb": 9.25,
+            "cpu_percent": 0.0
+        }
+    ]
+}
