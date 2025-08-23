@@ -94,9 +94,6 @@ def get_system_info(system_processes):
     }
 
 def print_process_tree(json_file="system_info.json"):
-    """
-    Read system_info.json and print processes in a parent-child tree format.
-    """
     with open(json_file, "r") as f:
         data = json.load(f)
 
