@@ -6,9 +6,7 @@ import re
 
 
 def get_running_processes():
-    """
-    Fetch running processes using Windows 'tasklist' + psutil for CPU% and PPID.
-    """
+    
     processes = []
     system_processes = []
 
